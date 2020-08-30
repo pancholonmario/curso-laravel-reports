@@ -1,3 +1,9 @@
+## Curso - Platzi
+
+Sistema de control de gastos, reportes, envío de mails, CRUD, Autenticación de 1 usuario y visualizar que el usuario autenticado pueda ver únicamente sus gastos.
+
+
+
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
 <p align="center">
